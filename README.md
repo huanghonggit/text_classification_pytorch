@@ -1,4 +1,4 @@
 # text_classification_pytorch
-两类简单的文本分类代码：
-  1.  2_data.py;  test_2_data.py; argument.py三个是一类，用trochtext库
-  2.  其他是一类，用不同模型实现。
+两中方法的文本分类：
+  1.  使用trochtext库实现。
+  2.  多个模型的简单代码实现文本分类。
